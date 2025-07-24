@@ -1,5 +1,5 @@
 import logging
-from aiogram import Bot, Dispatcher, executor, types
+from aiogram import Bot, Dispatcher, types, executor
 import os
 
 # Токен мен админдерді ортадан алу
